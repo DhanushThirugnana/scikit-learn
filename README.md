@@ -6,7 +6,7 @@ Please find the code written under:
 sklearn->mycode->mycode.py
  
 Function to be called:
-cmeans(<pd.Dataframe>, <int>,<int>)
+cmeans(<pd.Dataframe>, int,int)
 
 Output:
 Centroids<list>, Clusters<list>
