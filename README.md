@@ -15,5 +15,7 @@ Usage:
 set path to sklearn and then
 
 import mycode
+
 data = pd.read_csv('user.data,delimiter=',')
+
 centroid1, cluster1 = mycode.MyCMeans().cmeans(data,3,5)
